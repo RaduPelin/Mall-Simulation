@@ -7,7 +7,7 @@ Program for a Mall with manny functionalities - Try It
 Exit - close the aplication;
 ******************************************************
 AddShop fallowed by <name - String> <price_Per_Square - double> <type - String> <int floor1 > and / or <int floor2> <space_Per_Floor - double>
-  **********!!!ADD A SHOP!!!***********
+  **********!!!ADD A Shop!!!***********
   ******************************************************
 AddRestaurant fallowed by <name - String> <price_Per_Square - double> <type - String> <space - double > <michelin - int>
   **********!!!ADD A Restaurant!!!***********
