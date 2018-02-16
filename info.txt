@@ -1,0 +1,2 @@
+Shop: Zara Type: Clothes Space: 400.0 Price: 352000.0
+Cinema: CinemaCity Type: null Space: 2200.0 Price: 2640000.0

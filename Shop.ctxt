@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=floor
+comment0.target=void\ floorsException(int[])
+comment1.params=name\ pricePerSquare\ type\ floor\ spacePerFloor
+comment1.target=Shop(java.lang.String,\ double,\ java.lang.String,\ int[],\ double)
+comment2.params=
+comment2.target=double\ totalPrice()
+comment3.params=
+comment3.target=double\ totalSpace()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
