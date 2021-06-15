@@ -1,8 +1,8 @@
-# Mall-Simulation
-Program for a Mall with manny functionalities - Try It
-----------------------------------------------------------------------------------------------------------------------------------------------
-----------------------------------------------------------------------------------------------------------------------------------------------
-**********!!!Try to type only the fallowing comands if you don't want to receive errors!!!**********
+# Mall-Simulation 
+
+Interactive interface for a shopping center administration with multiple options
+--------------------------------------------------------------------------------------
+### Try to type only the fallowing comands if you don't want to receive errors
 ******************************************************
 Exit - close the aplication;
 ******************************************************
